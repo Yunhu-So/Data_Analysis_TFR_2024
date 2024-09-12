@@ -46,7 +46,7 @@ I have considered different possible factors that might have affected in such re
 By looking at the graph, I noticed that people tend to not get married as time passes by. Even though they do get married, married couples decide not to bear children as shown in TFR illustartion. I was curious what might have affected such results.
 
 ## 5. Private Education Expense
-<img src="" width="800">
+<img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Private%20Education%20Expense.png" width="800">
 
 Private education expense has been in positive trend except for 2020. I assume this happened due to the break out of Covid-19, which has created social distancing and preventive measures. Yet, the rate has reached its peak in 2021 when the government implemented 'living with Covid-19' plan.
 Meanwhile, I was curious if this was the only factor that burden couples to bear no children in their marriage.
@@ -56,7 +56,9 @@ Meanwhile, I was curious if this was the only factor that burden couples to bear
 
 As obsereved in the graph, prices constantly increases. By considering correlation between Per Capita Income and inflation, individuals struggle in living their own lives, which make them not to have children.
 
-## Linear Regression between TFR and Crude Marriage Rate
+## Regression Analysis between Crude Marriage Rate and TFR
+<img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Linear%20Regression%20CMR%20vs%20TFR.png" width="500"> <img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Polynomial%20Regression%20CMR%20vs%20TFR.png" width="500">
+
 
 ## Conclusion
 One possible factor could be the increase in life expectancy caused by technological improvements.
