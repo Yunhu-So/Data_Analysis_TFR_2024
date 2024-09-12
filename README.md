@@ -7,6 +7,8 @@ By importing python libraries, I have done:
 2. Found correlation between variables
 3. Predicted future TFR using different statistical techniques
 
+After performing multiple statistical analysis on several relevent factors, correlation has been found which may result into the solution on decreasing TFR and aging society in South Korea.  
+
 ## 1. South Korea's Population Pyramid
 
 ### 2008 Population Pyramid vs 2024 Population Pyramid
@@ -37,7 +39,6 @@ By adjusting the polynomial degree into 3, the trend aligned more with the linea
 <img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Polynomial%20Regression%20Fit%20for%20TFR.png" width="800">
 To check the polynomial regression fit for TFR, I have created chart for it as well.
 
-
 I have considered different possible factors that might have affected in such results.
 
 ## 4. Crude Marriage Rate
@@ -59,10 +60,9 @@ As obsereved in the graph, prices constantly increases. By considering correlati
 ## Regression Analysis between Crude Marriage Rate and TFR
 <img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Linear%20Regression%20CMR%20vs%20TFR.png" width="500"> <img src="https://github.com/Yunhu-So/Data_Analysis_TFR_2024/blob/main/Graphs/Polynomial%20Regression%20CMR%20vs%20TFR.png" width="500">
 
+Based on the regression analysis on Crude Marriage Rate and TFR, it is clear that as crude marriage rates increases, so does TFR. Correlation is found in such factors.
 
 ## Conclusion
-One possible factor could be the increase in life expectancy caused by technological improvements.
-To solve the issue of aging society, we need to consider several fundamental factors, not only TFR or number of birth. 
+One possible reason could be the increase in life expectancy caused by technological improvements. However, we can see from our analysis that other factors do exist. To solve decreasing trend in TFR, we should take a look into crude marriage rate, to check whether people are getting married. We have found out its rate is decreasing. 
 
-Correlation
-
+South Korea must focus on different policies to encourage people to get married as we can we from section 5 & 6 that living in South Korea is getting more harsh as time passes. By not only discussing negative trend in TFR, but also by taking a look at the overall living situation in South Korea, we may solve the serious issue that is happening in our country.
