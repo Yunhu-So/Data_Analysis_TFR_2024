@@ -19,3 +19,18 @@ venv/
 
 # Jupyter
 *.nbconvert.ipynb
+# --- project conventions ---
+# virtual environments
+.venv/
+venv/
+# Python cache
+__pycache__/
+*.pyc
+# data artifacts
+data/processed/
+# Jupyter checkpoints
+.ipynb_checkpoints/
+# OS files
+.DS_Store
+
+*.ipynb.bak
